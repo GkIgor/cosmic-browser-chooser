@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Escolher navegador
+Comment=Escolha o navegador para abrir cada link
+Exec=browser-chooser %u
+Icon=web-browser
+Terminal=false
+Categories=Network;WebBrowser;
+MimeType=x-scheme-handler/http;x-scheme-handler/https;text/html;application/xhtml+xml;
+StartupNotify=true
